@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @LucasKau3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#include
+<Lucas Kauê's Profile>
+- 👋 Hi, I’m @LucasKau3;
 
-<!---
-LucasKau3/LucasKau3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Studying a bachelor's degree in information systems at the Faculty of Technology at Unicamp;
+- 🌱 I'm interested in learning programming
+- 💞️ you loved by Jesus!
+
